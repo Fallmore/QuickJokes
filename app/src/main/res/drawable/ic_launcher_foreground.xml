@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Передний план иконки QuickJokes: белое «смеющееся» лицо с фиолетовыми
+  чертами (Amber40 фон + DeepPurple40 детали — палитра приложения).
+  Центр 54,54; лицо r=30 — внутри безопасной зоны адаптивной иконки.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- лицо -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,54 a30,30 0 1,0 60,0 a30,30 0 1,0 -60,0 Z" />
+    <!-- глаза -->
+    <path
+        android:fillColor="#5E35B1"
+        android:pathData="M39,43 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0 Z M60,43 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0 Z" />
+    <!-- ухмылка -->
+    <path
+        android:fillColor="#5E35B1"
+        android:pathData="M38,56 C40,71 68,71 70,56 C64,63.5 44,63.5 38,56 Z" />
+</vector>

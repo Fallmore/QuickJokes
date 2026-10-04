@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Монохромный слой для тематических иконок Android 13+:
+  то же лицо, но с вырезанными (evenOdd) глазами и ухмылкой — лаунчер
+  перекрашивает весь рисунок одним цветом, и черты остаются видимыми.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M24,54 a30,30 0 1,0 60,0 a30,30 0 1,0 -60,0 Z M39,43 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0 Z M60,43 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0 Z M38,56 C40,71 68,71 70,56 C64,63.5 44,63.5 38,56 Z" />
+</vector>

@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Платформенная тема: UI полностью на Jetpack Compose (Material 3) -->
+    <style name="Theme.QuickJokes" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/neutral_light_background</item>
+    </style>
+</resources>

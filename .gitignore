@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+local.properties
+
+# Kotlin daemon / compiler service logs
+.kotlin/
+
+# IDEA / Android Studio
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Ключи подписи релиза (Этап 8) — никогда не коммитить
+keystore.properties
+*.jks
+*.keystore
